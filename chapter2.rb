@@ -2,7 +2,6 @@
 
 # Ex 1
 # name.rb
-=begin 
 puts "Please type in your name..."
 name = gets.chomp
 puts "Thanks, your name is #{name}"
@@ -35,7 +34,7 @@ fname = gets.chomp
 puts "Please type in your last name..."
 lname = gets.chomp
 puts "Your name is #{fname} #{lname}"
-=end
+
 
 # Ex 5
 # First example, x prints "3" variable scope: outside the block
