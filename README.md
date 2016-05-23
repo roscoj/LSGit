@@ -1,1 +1,4 @@
-`loop do is this code`
+`loop do |n|`
+  `puts n + 1`
+`end`
+  
