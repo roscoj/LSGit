@@ -1,4 +1,5 @@
-`loop do |n|`
-  `puts n + 1`
-`end`
-  
+```Ruby
+loop do |n|
+  puts n + 1
+end
+```
